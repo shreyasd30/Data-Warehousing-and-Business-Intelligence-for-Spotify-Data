@@ -62,4 +62,10 @@ The ultimate goal is to utilize this data warehouse to conduct comprehensive ana
 The link for the dataset can be found here - [Spotify Music Dataset](https://www.kaggle.com/datasets/maltegrosse/8-m-spotify-tracks-genre-audio-features/data)
 
 
+
+## Spotify Music data - Dashboard
+The link to the dashboard can be found here - [Spotify Music Data Dashboard](https://public.tableau.com/app/profile/shreyas.dsshmukh/viz/Spotify_DB_1/Dashboard1)
+
+
+
 **This project is structured to be easily extended and modified to accommodate additional analyses and data sources as needed. Contributions and suggestions for improvements are welcome.**
