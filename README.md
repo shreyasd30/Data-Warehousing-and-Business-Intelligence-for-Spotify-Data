@@ -4,6 +4,9 @@
 ## Spotify Data Warehouse
 This project aims to enhance user engagement and content discovery on Spotify by leveraging its extensive dataset. By analyzing user preferences, identifying music industry trends, and providing personalized recommendations based on user behavior and other attributes, we seek to improve the overall user experience on the platform.
 
+![spotify-image](https://github.com/shreyasd30/Data-Warehousing-and-Business-Intelligence-for-Spotify-Data/assets/56275546/6e6f3544-71ba-48c7-bdcf-1d7f87e9bea8)
+
+
 ## Tools Used
 ![Talend_logo svg](https://github.com/shreyasd30/Data-Warehousing-and-Business-Intelligence-for-Spotify-Data/assets/56275546/4e46817c-c284-47bb-b268-71d0770d6480) &emsp;         ![spotify_image](https://github.com/shreyasd30/Data-Warehousing-and-Business-Intelligence-for-Spotify-Data/assets/56275546/ba74d85f-9f84-402a-b3a4-1aaec1f45769)   &emsp; ![download](https://github.com/shreyasd30/Data-Warehousing-and-Business-Intelligence-for-Spotify-Data/assets/56275546/77c6778b-fb2e-430b-a6f9-b1cce51767ab) 
 
