@@ -1,10 +1,15 @@
 # Data-Warehousing-and-Business-Intelligence-for-Spotify-Data
 
 
-##Spotify Data Warehouse
+## Spotify Data Warehouse
 This project aims to enhance user engagement and content discovery on Spotify by leveraging its extensive dataset. By analyzing user preferences, identifying music industry trends, and providing personalized recommendations based on user behavior and other attributes, we seek to improve the overall user experience on the platform.
 
-###Conceptual Model
+## Tools Used
+
+Talend ![Talend_logo svg](https://github.com/shreyasd30/Data-Warehousing-and-Business-Intelligence-for-Spotify-Data/assets/56275546/b4affa96-ee30-4997-88f6-b487ca007367)
+
+
+### Conceptual Model
 The data warehouse is designed with the following conceptual model to store and analyze various aspects of Spotify's data:
 
 **Tracks**
@@ -51,7 +56,7 @@ Genre_id: Unique identifier for the genre
 Genre_name: Name of the genre
 
 
-##Goal
+## Goal
 The ultimate goal is to utilize this data warehouse to conduct comprehensive analyses that reveal user preferences and trends within the music industry. These insights can then be used to provide personalized recommendations and enhance overall user engagement on Spotify.
 
 **This project is structured to be easily extended and modified to accommodate additional analyses and data sources as needed. Contributions and suggestions for improvements are welcome.**
